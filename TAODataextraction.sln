@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAODataextraction", "TAODataextraction\TAODataextraction.csproj", "{64339362-DA6F-4297-9D27-3A9D820473FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingTAOLibrary", "TestingTAOLibrary\TestingTAOLibrary.csproj", "{3184B354-24CB-4F02-A979-92838CAEE703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64339362-DA6F-4297-9D27-3A9D820473FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64339362-DA6F-4297-9D27-3A9D820473FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64339362-DA6F-4297-9D27-3A9D820473FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64339362-DA6F-4297-9D27-3A9D820473FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3184B354-24CB-4F02-A979-92838CAEE703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3184B354-24CB-4F02-A979-92838CAEE703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3184B354-24CB-4F02-A979-92838CAEE703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3184B354-24CB-4F02-A979-92838CAEE703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A0ABD5-80AA-480A-B555-94D5E765CF10}
+	EndGlobalSection
+EndGlobal
